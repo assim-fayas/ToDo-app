@@ -16,12 +16,12 @@
       "id": 3,
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
-      "text": "test task",
-      "day": "April 28",
-      "reminder": false,
+      "text": "Cleaning",
+      "day": "julay 3  5:30pm",
+      "reminder": true,
       "id": 4
     }
   ]
