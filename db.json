@@ -21,7 +21,7 @@
     {
       "text": "code review",
       "day": "julay 3  5:30pm",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     }
   ]
